@@ -1,0 +1,1 @@
+Implement a lighter mode for better expierence
